@@ -29,10 +29,11 @@ Complexity
 - Improved problem solving skills
 Programming Language
 Java
-## 👩‍💻 Author
-## 👩‍💻 Author
+## Author
 **Malaika Zahoor**
+
 BS Computer Science Student
+
 https://github.com/Malaika-CS
 
 
