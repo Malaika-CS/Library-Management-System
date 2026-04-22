@@ -30,6 +30,9 @@ Complexity
 Programming Language
 Java
 ## 👩‍💻 Author
-Malaika Zahoor
+## 👩‍💻 Author
+**Malaika Zahoor**
 BS Computer Science Student
+https://github.com/Malaika-CS
+
 
