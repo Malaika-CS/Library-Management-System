@@ -22,18 +22,14 @@ Complexity
 - GUI based interface
 - Database connectivity using JDBC
 - Multiple modules for books and members management
-##  Learning & Overcome
+#  Learning & Overcome
 - Learned Java GUI development
 - Understood database connectivity
 - Overcame challenges in JDBC connection
 - Improved problem solving skills
 Programming Language
 Java
+## 👩‍💻 Author
+Malaika Zahoor
+BS Computer Science Student
 
----
-
-👉 Paste karo aur **"Commit changes"** click karo!
-
----
-
-Ho gaya? Batao! 😊
